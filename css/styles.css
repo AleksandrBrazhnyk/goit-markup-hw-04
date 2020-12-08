@@ -513,10 +513,11 @@ a,
 /* join */
 .footer-bg .container {
   display: flex;
-  align-items: center;
+  /* align-items: center; */
 }
 
 .footer-bg .join-section {
+  margin-top: 10px;
   margin-left: 70px;
 }
 
@@ -542,7 +543,6 @@ a,
  font-weight: 700;
  font-size: 14px;
  line-height: 1.14;
- text-align: center;
 }
 
 /* портфолио */
